@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Arthur
 
-<!--
-**arthur-selvano/arthur-selvano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor in Information Systems (BSI) – Federal University of Uberlândia (UFU) — In Progress  
+🛠 Technical Degree in Internet of Things (IoT) – IFTM Campus Uberlândia
 
-Here are some ideas to get you started:
+## 💻 Areas of Interest
+- Technical Support and Hardware
+- Internet of Things (IoT)
+- Programming
+- Linux Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Skills
+- C Programming
+- Process Automation
+- HTML & JavaScript
+- ESP32
+- Linux
+- Computer Hardware Maintenance
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/arthur-selvano-da-silva-oliveira-664b84394/
+- Email: arthurselvano77@gmail.com
