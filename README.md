@@ -19,7 +19,6 @@
 - Linux
 - Computer Hardware Maintenance
 - Spreadsheet Management (Excel)
-- Data Analysis and Dashboards (Power BI & DAX)
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/arthur-selvano-da-silva-oliveira-664b84394/
