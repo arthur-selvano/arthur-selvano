@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arthur
 
 🎓 Bachelor in Information Systems (BSI) – Federal University of Uberlândia (UFU) — In Progress  
-🛠 Technical Degree in Internet of Things (IoT) – IFTM Campus Uberlândia
+🛠 Technical Degree in Internet of Things (IoT) – IFTM Campus Uberlândia                                  
 📊 Excel, Power BI & DAX Specialist Training (7-in-1 Course Program) — In Progress  
 
 ## 💻 Areas of Interest
