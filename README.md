@@ -1,25 +1,48 @@
-# 👋 Hi, I'm Arthur
+# Olá, eu sou o Arthur 👋
 
-🎓 Bachelor in Information Systems (BSI) – Federal University of Uberlândia (UFU) — In Progress  
-🛠 Technical Degree in Internet of Things (IoT) – IFTM Campus Uberlândia                                  
-📊 Excel, Power BI & DAX Specialist Training (7-in-1 Course Program) — In Progress  
+🎓 Estudante de **Sistemas de Informação** na Universidade Federal de Uberlândia (UFU)
+🛠 Técnico em **Internet das Coisas (IoT)** pelo IFTM – Campus Uberlândia
 
-## 💻 Areas of Interest
-- Technical Support and Hardware
-- Internet of Things (IoT)
-- Programming
-- Linux Systems
-- Data Analysis and Visualization
+Tenho interesse em **desenvolvimento de software**, especialmente em **backend, automação e construção de sistemas**. Atualmente estou aprofundando meus conhecimentos em programação, lógica de algoritmos e desenvolvimento de aplicações.
 
-## 🚀 Technologies & Skills
-- C Programming
-- Process Automation
-- HTML & JavaScript
-- ESP32
-- Linux
-- Computer Hardware Maintenance
-- Spreadsheet Management (Excel)
+---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/arthur-selvano-da-silva-oliveira-664b84394/
-- Email: arthurselvano77@gmail.com
+## 💻 Áreas de Interesse
+
+* Engenharia de Software
+* Desenvolvimento Backend
+* Programação e Estruturas de Dados
+* Sistemas Linux
+* Internet das Coisas (IoT)
+
+---
+
+## 🚀 Tecnologias
+
+**Linguagens de Programação**
+
+* C
+* C++
+* Python
+
+**Tecnologias Web**
+
+* HTML
+* CSS
+
+**Outros Conhecimentos**
+
+* Linux
+* ESP32 e integração de sensores
+* Lógica de programação
+* Hardware e manutenção de computadores
+
+---
+
+## 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/arthur-selvano-da-silva-oliveira-664b84394
+
+Email:
+[arthurselvano@outlook.com.br](mailto:arthurselvano@outlook.com.br)
