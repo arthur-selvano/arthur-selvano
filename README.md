@@ -11,7 +11,7 @@ Tenho interesse em **desenvolvimento de software**, especialmente em **backend, 
 
 * Engenharia de Software
 * Desenvolvimento Backend
-* Programação e Estruturas de Dados
+* Automação de processos
 * Sistemas Linux
 * Internet das Coisas (IoT)
 
