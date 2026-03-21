@@ -24,7 +24,7 @@ Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python pa
 
     Ferramentas de Automação: Selenium, PyAutoGUI, Tkinter.
 
-    Infra & OS: Linux (Daily driver), Docker (em aprendizado), Git/GitHub.
+    Infra & OS: Linux (Daily driver), Git/GitHub.
 
     Monitoramento: Experiência com protocolos MQTT e integração de APIs.
 
