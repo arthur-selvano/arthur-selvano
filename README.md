@@ -30,10 +30,10 @@ Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python pa
 
 # 📂 Projetos em Destaque para Sustentação
 
-Monitor de Disponibilidade Python
+[Monitor de Disponibilidade Python](https://github.com/arthur-selvano/monitor-disponibilidade-python)
 
     Ferramenta para verificar o status de serviços web e gerar alertas de queda. Essencial para times de sustentação que precisam de proatividade no monitoramento.
 
-Automação de Declaração de Conteúdo
+[Automação de Declaração de Conteúdo](https://github.com/arthur-selvano/automacao-declaracao-conteudo)
 
     Script com interface gráfica que automatiza o preenchimento de documentos .docx e conversão para PDF. Demonstra foco em UX e eficiência operacional.
