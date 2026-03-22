@@ -36,4 +36,4 @@ Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python pa
 
 [Automação de Declaração de Conteúdo](https://github.com/arthur-selvano/automacao-declaracao-conteudo)
 
-    Script com interface gráfica que automatiza o preenchimento de documentos .docx e conversão para PDF. Demonstra foco em UX e eficiência operacional.
+    Script que automatiza o preenchimento de documentos .docx e conversão para PDF. Demonstra foco em UX e eficiência operacional.
