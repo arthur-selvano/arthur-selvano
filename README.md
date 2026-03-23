@@ -38,6 +38,6 @@ Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python pa
 
     Script que automatiza o preenchimento de documentos .docx e conversão para PDF. Demonstra foco em UX e eficiência operacional.
 
-[To-do List com FASTAPI e SQLITE](https://github.com/arthur-selvano/to-do-list)
+[To-Do List (React + FastAPI + SQLite)](https://github.com/arthur-selvano/to-do-list)
 
-    Uma To-do list feita para o melhor entendimento do funcionamento de API
+    Aplicação integrada que utiliza React para a interface e FastAPI para a lógica. O projeto implementa um ciclo completo de manipulação de dados (Criação, Leitura e Exclusão) com persistência em banco de dados SQLite.
