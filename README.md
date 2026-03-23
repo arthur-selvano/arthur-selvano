@@ -37,3 +37,7 @@ Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python pa
 [Automação de Declaração de Conteúdo](https://github.com/arthur-selvano/automacao-declaracao-conteudo)
 
     Script que automatiza o preenchimento de documentos .docx e conversão para PDF. Demonstra foco em UX e eficiência operacional.
+
+[To-do List com FASTAPI e SQLITE](https://github.com/arthur-selvano/to-do-list)
+
+    Uma To-do list feita para o melhor entendimento do funcionamento de API
