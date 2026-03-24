@@ -16,7 +16,7 @@ Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python pa
 
     1º Lugar na FEICON: Premiado por um projeto de monitoramento via IoT utilizando ESP32 e C++.
 
-    Automação de Documentos: Desenvolvi uma ferramenta em Python para geração automática de declarações de conteúdo, otimizando o fluxo de postagem.
+    Automação de Documentos: Desenvolvi uma ferramenta em Python para geração automática de declarações de conteúdo, otimizando o fluxo de postagem. Reduzindo um trabalho de cerca de 5 minutos para menos de 1 minuto.
 
 # 💻 Stack Técnica
 
