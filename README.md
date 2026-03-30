@@ -1,6 +1,6 @@
 # 🚀 Arthur Selvano | Software & Automation Enthusiast
 
-Estudante de Sistemas de Informação na UFU e técnico em IoT pelo IFTM. Atualmente atuando em Field Service e Service Desk, com foco em transição para as áreas de Sustentação, DevOps e Cybersecurity.
+Estudante de Sistemas de Informação na UFU e técnico em IoT pelo IFTM. Atualmente atuando em Field Service e Service Desk, com foco em transição para as áreas de desenvolvimento web e mobile.
 
 Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python para criar soluções que automatizam o suporte técnico e garantem a disponibilidade de sistemas.
 
