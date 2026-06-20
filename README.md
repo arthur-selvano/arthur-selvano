@@ -1,43 +1,21 @@
-# 🚀 Arthur Selvano | Software & Automation Enthusiast
+# Arthur Selvano
+**Estudante de Sistemas de Informação (UFU) | Técnico em IoT (IFTM)**
 
-Estudante de Sistemas de Informação na UFU e técnico em IoT pelo IFTM. Atualmente atuando em Field Service e Service Desk, com foco em transição para as áreas de desenvolvimento web e mobile.
+Sou um entusiasta da tecnologia que utiliza o desenvolvimento de software para resolver problemas operacionais reais e otimizar fluxos de trabalho.
 
-Minha abordagem combina a lógica rigorosa do C/C++ com a agilidade do Python para criar soluções que automatizam o suporte técnico e garantem a disponibilidade de sistemas.
+## Experiência e Habilidades
 
-# 🛠️ No que estou focado:
+* **Automação de Processos:** Utilizo Python para criar ferramentas que eliminam tarefas repetitivas. Já reduzi processos que levavam 5 minutos para menos de 1 minuto.
+* **Sustentação de Sistemas:** Experiência prática em monitoramento de serviços, investigação de causa raiz e suporte técnico presencial e remoto.
+* **IoT e Hardware:** Base técnica em C/C++ e protocolos de comunicação (MQTT). Vencedor do 1º lugar na FEICON com projeto de monitoramento via IoT.
+* **Ambiente de Trabalho:** Domínio de sistemas Linux (uso diário) e ferramentas de versionamento de código (Git/GitHub).
 
-    Automação de Processos: Desenvolvimento de scripts em Python (Selenium, PyAutoGUI) para eliminar tarefas repetitivas em sistemas de chamados e ERPs.
+## Projetos de Destaque
 
-    Monitoramento e Disponibilidade: Criação de ferramentas para acompanhamento de saúde de serviços em tempo real.
+* **Automação de Declaração de Conteúdo:** Ferramenta desenvolvida para otimizar o fluxo operacional, automatizando a criação de documentos e aumentando a produtividade.
+* **Monitor de Disponibilidade:** Script focado em proatividade, monitorando o status de serviços web e gerando alertas em caso de instabilidade.
+* **To-Do List (React + FastAPI + SQLite):** Projeto em desenvolvimento para consolidar a integração entre frontend e backend, focando na persistência de dados.
 
-    Sustentação de Sistemas: Investigação de causa raiz e manutenção corretiva/evolutiva de software.
+## Perfil Profissional
 
-# 🏆 Destaques & Conquistas
-
-    1º Lugar na FEICON: Premiado por um projeto de monitoramento via IoT utilizando ESP32 e C++.
-
-    Automação de Documentos: Desenvolvi uma ferramenta em Python para geração automática de declarações de conteúdo, otimizando o fluxo de postagem. Reduzindo um trabalho de cerca de 5 minutos para menos de 1 minuto.
-
-# 💻 Stack Técnica
-
-    Linguagens: Python, C, C++, SQL.
-
-    Ferramentas de Automação: Selenium, PyAutoGUI, Tkinter.
-
-    Infra & OS: Linux (Daily driver), Git/GitHub.
-
-    Monitoramento: Experiência com protocolos MQTT e integração de APIs.
-
-# 📂 Projetos em Destaque para Sustentação
-
-[Monitor de Disponibilidade Python](https://github.com/arthur-selvano/monitor-disponibilidade-python)
-
-    Ferramenta para verificar o status de serviços web e gerar alertas de queda. Essencial para times de sustentação que precisam de proatividade no monitoramento.
-
-[Automação de Declaração de Conteúdo](https://github.com/arthur-selvano/automacao-declaracao-conteudo)
-
-    Script que automatiza o preenchimento de documentos .docx e conversão para PDF. Demonstra foco em UX e eficiência operacional.
-
-[To-Do List (React + FastAPI + SQLite)](https://github.com/arthur-selvano/to-do-list)
-
-    Aplicação integrada que utiliza React para a interface e FastAPI para a lógica. O projeto implementa um ciclo completo de manipulação de dados (Criação, Leitura e Exclusão) com persistência em banco de dados SQLite.
+Busco aplicar minha capacidade de resolução de problemas e minha experiência técnica em ambientes de desenvolvimento. Sou autodidata, habituado à rotina de suporte e pronto para contribuir com times focados em eficiência e entrega de software.
