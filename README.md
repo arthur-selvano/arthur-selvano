@@ -19,5 +19,5 @@ Tenho experiência prática trabalhando com suporte técnico e atendimento, tant
 * **Automação de Declaração de Conteúdo**
   Um script em Python que fiz para preencher documentos de logística automaticamente, tirando a necessidade de fazer tudo na mão.
 
-  * **Gerador de senha**
+* **Gerador de senha**
   Um script em Python que fiz para gerar senhas.
