@@ -1,21 +1,23 @@
 # Arthur Selvano
 **Estudante de Sistemas de Informação (UFU) | Técnico em IoT (IFTM)**
 
-Sou um entusiasta da tecnologia que utiliza o desenvolvimento de software para resolver problemas operacionais reais e otimizar fluxos de trabalho.
+## Sobre Mim
 
-## Experiência e Habilidades
+Sou estudante de Sistemas de Informação, técnico em IoT e uso Linux e Git no meu dia a dia. Gosto de usar a programação para resolver problemas reais e deixar o trabalho mais rápido. 
 
-* **Automação de Processos:** Utilizo Python para criar ferramentas que eliminam tarefas repetitivas. Já reduzi processos que levavam 5 minutos para menos de 1 minuto.
-* **Sustentação de Sistemas:** Experiência prática em monitoramento de serviços, investigação de causa raiz e suporte técnico presencial e remoto.
-* **IoT e Hardware:** Base técnica em C/C++ e protocolos de comunicação (MQTT). Vencedor do 1º lugar na FEICON com projeto de monitoramento via IoT.
-* **Ambiente de Trabalho:** Domínio de sistemas Linux (uso diário) e ferramentas de versionamento de código (Git/GitHub).
+Tenho experiência prática trabalhando com suporte técnico e atendimento, tanto ajudando o usuário quanto investigando a causa de problemas e bugs. Sou bem tranquilo para trabalhar em equipe, lido bem com imprevistos e estou bem motivado para aprender com quem tem mais experiência e evoluir na área de desenvolvimento.
 
-## Projetos de Destaque
+## O que eu sei fazer
 
-* **Automação de Declaração de Conteúdo:** Ferramenta desenvolvida para otimizar o fluxo operacional, automatizando a criação de documentos e aumentando a produtividade.
-* **Monitor de Disponibilidade:** Script focado em proatividade, monitorando o status de serviços web e gerando alertas em caso de instabilidade.
-* **To-Do List (React + FastAPI + SQLite):** Projeto em desenvolvimento para consolidar a integração entre frontend e backend, focando na persistência de dados.
+* **Python:** Crio scripts simples para automatizar tarefas repetitivas e economizar tempo.
+* **Suporte Técnico:** Experiência em monitorar serviços, resolver bugs e atender usuários (presencial ou remoto).
+* **IoT e Hardware:** Sei o básico de C/C++, microcontroladores e MQTT. Nosso projeto de monitoramento levou o 1º lugar na FEICON.
+* **Ferramentas:** Uso diário de Linux e Git/GitHub para organizar meus códigos.
 
-## Perfil Profissional
+## Projetos que fiz
 
-Busco aplicar minha capacidade de resolução de problemas e minha experiência técnica em ambientes de desenvolvimento. Sou autodidata, habituado à rotina de suporte e pronto para contribuir com times focados em eficiência e entrega de software.
+* **Automação de Declaração de Conteúdo**
+  Um script em Python que fiz para preencher documentos de logística automaticamente, tirando a necessidade de fazer tudo na mão.
+
+  * **Gerador de senha**
+  Um script em Python que fiz para gerar senhas.
