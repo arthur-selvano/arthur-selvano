@@ -3,21 +3,25 @@
 
 ## Sobre Mim
 
-Sou estudante de Sistemas de Informação, técnico em IoT e uso Linux e Git no meu dia a dia. Gosto de usar a programação para resolver problemas reais e deixar o trabalho mais rápido. 
+Sou estudante de Sistemas de Informação, técnico em IoT. Gosto de estudar e aplicar programação para resolver problemas reais e deixar o trabalho mais eficiente, utilizando a capacidade analítica para entender cada situação e desenvolver a solução mais eficiente. 
 
-Tenho experiência prática trabalhando com suporte técnico e atendimento, tanto ajudando o usuário quanto investigando a causa de problemas e bugs. Sou bem tranquilo para trabalhar em equipe, lido bem com imprevistos e estou bem motivado para aprender com quem tem mais experiência e evoluir na área de desenvolvimento.
+Tenho experiência com Service Desk, atuei realizando o atendimento de chamados, manutenção de notebooks e também automações em Python afim de otimizar o tempo perdido em tarefas repetitivas. 
 
-## O que eu sei fazer
+Atualmente estou colaborando para o projeto Portal RH da Sunsale System como estagiário, atuando como desenvolvedor Fullstack, utilizando tecnologias como o .NET e o React.
 
-* **Python:** Crio scripts simples para automatizar tarefas repetitivas e economizar tempo.
+## Tecnologias
+
+* **Python:** Crio scripts para automatizar tarefas repetitivas e economizar tempo.
 * **Suporte Técnico:** Experiência em monitorar serviços, resolver bugs e atender usuários (presencial ou remoto).
-* **IoT e Hardware:** Sei o básico de C/C++, microcontroladores e MQTT. Nosso projeto de monitoramento levou o 1º lugar na FEICON.
-* **Ferramentas:** Uso diário de Linux e Git/GitHub para organizar meus códigos.
+* **IoT e Hardware:** ESP32, MQTT, sensores e C/C++.
+* **ASP.NET CORE:** Correção de bugs, implementação de novas funções em API.
+* **React:** Utilização para criação de páginas front-end.
+* **Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code.
 
 ## Projetos que fiz
 
 * **Automação de Declaração de Conteúdo**
-* Um script em Python que fiz para preencher documentos de logística automaticamente, tirando a necessidade de fazer tudo na mão.
+* Um script em Python que fiz para preencher documentos de logística automaticamente.
 
 * **Gerador de senha**
 * Um script em Python que fiz para gerar senhas.
