@@ -38,7 +38,7 @@ Atualmente estou colaborando para o projeto Portal RH da Sunsale System como est
 
 🔧 Ferramentas: Git/GitHub, Visual Studio, Visual Studio Code.
 
-🚀 Projetos que fiz
+🚀 Projetos que fiz e contribuo
 
 <table>
   <tr>
@@ -51,6 +51,12 @@ Atualmente estou colaborando para o projeto Portal RH da Sunsale System como est
     <td width="50%" valign="top" align="center">
       <h3>🔐 Gerador de senha</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <br><br>
+      <p>Um script em Python que fiz para gerar senhas.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🤝 Portal RH - Sunsale System</h3>
+      ![.NET](https://shields.io)
       <br><br>
       <p>Um script em Python que fiz para gerar senhas.</p>
     </td>
