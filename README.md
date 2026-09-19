@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arthur Selvano
+Arthur Selvano
 
 Estudante de Sistemas de Informação (UFU) | Técnico em IoT (IFTM)
 
@@ -10,15 +10,15 @@ Estudante de Sistemas de Informação (UFU) | Técnico em IoT (IFTM)
 
 </div>
 
-## 👨‍💻 Sobre Mim
+👨‍💻 Sobre Mim
 
-Sou estudante de Sistemas de Informação, técnico em IoT. Gosto de estudar e aplicar programação para resolver problemas reais e deixar o trabalho mais eficiente, utilizando a capacidade analítica para entender cada situação e desenvolver a solução mais eficiente.
+Sou estudante de Sistemas de Informação e técnico em IoT. Gosto de estudar e aplicar programação para resolver problemas reais e deixar o trabalho mais eficiente, utilizando a capacidade analítica para entender cada situação e desenvolver a solução mais eficiente.
 
-Tenho experiência com Service Desk, atuei realizando o atendimento de chamados, manutenção de notebooks e também automações em Python afim de otimizar o tempo perdido em tarefas repetitivas.
+Tenho experiência com Service Desk; atuei realizando o atendimento de chamados, a manutenção de notebooks e também automações em Python, a fim de otimizar o tempo perdido em tarefas repetitivas.
 
-Atualmente estou colaborando para o projeto Portal RH da Sunsale System como estagiário, atuando como desenvolvedor Fullstack, utilizando tecnologias como o .NET e o React.
+Atualmente, estou colaborando para o projeto Portal RH da Sunsale System como estagiário, atuando como desenvolvedor Fullstack, utilizando tecnologias como .NET e React.
 
-## 🛠️ O que eu sei fazer
+🛠️ O que eu sei fazer
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
@@ -26,14 +26,19 @@ Atualmente estou colaborando para o projeto Portal RH da Sunsale System como est
   </a>
 </p>
 
-* 🐍 **Python:** Crio scripts para automatizar tarefas repetitivas e economizar tempo.
-* 💻 **Suporte Técnico:** Experiência em monitorar serviços, resolver bugs e atender usuários (presencial ou remoto).
-* 🔌 **IoT e Hardware:** ESP32, MQTT, sensores e C/C++.
-* ⚙️ **ASP.NET CORE:** Correção de bugs, implementação de novas funções em API.
-* ⚛️ **React:** Utilização para criação de páginas front-end.
-* 🔧 **Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code.
+🐍 Python: Crio scripts para automatizar tarefas repetitivas e economizar tempo.
 
-## 🚀 Projetos que fiz e contribuo
+💻 Suporte Técnico: Experiência em monitorar serviços, resolver bugs e atender usuários (presencial ou remoto).
+
+🔌 IoT e Hardware: ESP32, MQTT, sensores e C/C++.
+
+⚙️ ASP.NET Core: Correção de bugs, implementação de novas funções em API.
+
+⚛️ React: Utilização para criação de páginas front-end.
+
+🔧 Ferramentas: Git/GitHub, Visual Studio, Visual Studio Code.
+
+🚀 Projetos que fiz e para os quais contribuo
 
 <table>
   <tr>
@@ -44,14 +49,15 @@ Atualmente estou colaborando para o projeto Portal RH da Sunsale System como est
       <p>Um script em Python que fiz para preencher documentos de logística automaticamente.</p>
     </td>
     <td width="33.3%" valign="top" align="center">
-      <h3>🔐 Gerador de senha</h3>
+      <h3>🔐 Gerador de senhas</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
       <br><br>
       <p>Um script em Python que fiz para gerar senhas.</p>
     </td>
     <td width="33.3%" valign="top" align="center">
-      <h3>🤝 Portal RH - Sunsale System</h3>
-      <img src="https://shields.io" alt=".NET" />
+      <h3>🤝 Portal RH — Sunsale System</h3>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000000" alt="React" />
       <br><br>
       <p>Colaboração no desenvolvimento de uma plataforma Fullstack utilizando .NET e React.</p>
     </td>
