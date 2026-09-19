@@ -40,25 +40,19 @@ Atualmente estou colaborando para o projeto Portal RH da Sunsale System como est
 
 🚀 Projetos que fiz
 
-📦 Automação de Declaração de Conteúdo
-
-Um script em Python que fiz para preencher documentos de logística automaticamente.
-
-🔐 Gerador de senha
-
-Um script em Python que fiz para gerar senhas.
-
-<div align="center">
-
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=arthur-selvano&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=pt-br&amp;include_all_commits=true&amp;rank_icon=github" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthur-selvano&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=pt-br" alt="Linguagens mais usadas" />
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=arthur-selvano&amp;theme=transparent&amp;hide_border=true&amp;locale=pt_BR" alt="Sequência de contribuições" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>📦 Automação de Declaração de Conteúdo</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <br><br>
+      <p>Um script em Python que fiz para preencher documentos de logística automaticamente.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🔐 Gerador de senha</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <br><br>
+      <p>Um script em Python que fiz para gerar senhas.</p>
+    </td>
+  </tr>
+</table>
