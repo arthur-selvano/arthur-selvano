@@ -5,7 +5,7 @@
 
 **Estudante de Sistemas de Informação (UFU) | Técnico em IoT (IFTM)**
 
-Desenvolvedor Full Stack em formação, com experiência em desenvolvimento web, automação e suporte técnico.
+Desenvolvedor Full Stack, com experiência em desenvolvimento web, automação e suporte técnico.
 
 <a href="https://github.com/arthur-selvano">
   <img src="https://img.shields.io/badge/GitHub-arthur--selvano-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
