@@ -1,113 +1,115 @@
+
 <div align="center">
 
-Arthur Selvano
+# Arthur Selvano
 
-Estudante de Sistemas de Informação na UFU | Técnico em IoT pelo IFTM
+**Estudante de Sistemas de Informação (UFU) | Técnico em IoT (IFTM)**
 
-Desenvolvedor Full Stack em formação, com experiência prática em desenvolvimento web, automação de processos e suporte técnico.
+Desenvolvedor Full Stack em formação, com experiência em desenvolvimento web, automação e suporte técnico.
 
 <a href="https://github.com/arthur-selvano">
-<img src="https://img.shields.io/badge/GitHub-arthur--selvano-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-arthur--selvano-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
-👨‍💻 Sobre mim
+---
+
+## 👨‍💻 Sobre mim
 
 Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia (UFU) e técnico em Internet das Coisas (IoT) pelo IFTM. Tenho interesse em desenvolvimento de software, automação de processos e criação de soluções para problemas reais.
 
-Atualmente, atuo como estagiário de desenvolvimento Full Stack no projeto Portal RH da Sunsale System, contribuindo para o desenvolvimento e a manutenção de aplicações utilizando .NET, C# e React.
+Atualmente, atuo como estagiário de desenvolvimento Full Stack no projeto Portal RH da **Sunsale System**, contribuindo para o desenvolvimento e a manutenção de aplicações utilizando **.NET, C# e React**.
 
 Também tenho experiência com Service Desk, atendimento de chamados, manutenção de notebooks e desenvolvimento de scripts em Python para automatizar tarefas repetitivas e otimizar processos.
 
 Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em desenvolvimento de software, APIs, bancos de dados e boas práticas de programação.
 
-🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
 <a href="https://github.com/tandpfun/skill-icons">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,py,java,postgres,docker,cpp,arduino,git,github,vscode,visualstudio&perline=7" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,py,java,postgres,docker,cpp,arduino,git,github,vscode,visualstudio&perline=7" alt="Tecnologias e ferramentas" />
 </a>
 
 </div>
 
-💻 Desenvolvimento de software
-C# e .NET: manutenção de aplicações, correção de bugs e implementação de funcionalidades em APIs.
-React: desenvolvimento de interfaces e páginas front-end.
-Java: desenvolvimento de aplicações desktop e integração com banco de dados.
-Python: criação de scripts para automação de tarefas e otimização de processos.
-SQL e PostgreSQL: persistência e manipulação de dados.
-🔌 IoT e hardware
-ESP32, Arduino, sensores e comunicação MQTT.
-Programação em C/C++ e integração entre hardware e software.
-⚙️ Ferramentas
-Git e GitHub para versionamento de código.
-Visual Studio e Visual Studio Code.
-Docker e Docker Compose para ambientes de desenvolvimento.
-Experiência com suporte técnico, diagnóstico de problemas e atendimento a usuários.
-🚀 Projetos
+### 💻 Desenvolvimento de software
+
+- **C# e .NET:** manutenção de aplicações, correção de bugs e implementação de funcionalidades em APIs.
+- **React:** desenvolvimento de interfaces e páginas front-end.
+- **Java:** desenvolvimento de aplicações desktop e integração com banco de dados.
+- **Python:** criação de scripts para automação de tarefas.
+- **SQL e PostgreSQL:** persistência e manipulação de dados.
+
+### 🔌 IoT e hardware
+
+- ESP32, Arduino, sensores e comunicação MQTT.
+- Programação em C/C++ e integração entre hardware e software.
+
+### ⚙️ Ferramentas
+
+- Git e GitHub para versionamento de código.
+- Visual Studio e Visual Studio Code.
+- Docker e Docker Compose para ambientes de desenvolvimento.
+- Suporte técnico, diagnóstico de problemas e atendimento a usuários.
+
+## 🚀 Projetos
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<h3>📋 Gerenciador de Tarefas</h3>
-<p>
-Aplicação desktop para gerenciamento de pessoas e tarefas, com operações CRUD e integração com banco de dados relacional.
-</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square" alt="Java Swing" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-<a href="https://github.com/arthur-selvano/gerenciador-tarefas-java">Ver repositório</a>
-</td>
-<td width="50%" valign="top">
-<h3>📦 Automação de Declaração de Conteúdo</h3>
-<p>
-Script em Python desenvolvido para automatizar o preenchimento de documentos de logística, reduzindo tarefas manuais e repetitivas.
-</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Automação-555555?style=flat-square" alt="Automação" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🔐 Gerador de Senhas</h3>
-<p>
-Script em Python para geração de senhas, desenvolvido para praticar programação e automatizar uma tarefa simples.
-</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🤝 Portal RH — Sunsale System</h3>
-<p>
-Colaboração profissional no desenvolvimento e na manutenção de uma aplicação Full Stack, contribuindo com funcionalidades e correções.
-</p>
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-</p>
-<p><em>Experiência profissional — não necessariamente um repositório público.</em></p>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 Gerenciador de Tarefas</h3>
+      <p>Aplicação desktop para gerenciamento de pessoas e tarefas, com operações CRUD e integração com banco de dados relacional.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <a href="https://github.com/arthur-selvano/gerenciador-tarefas-java">Ver repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Automação de Declaração de Conteúdo</h3>
+      <p>Script em Python desenvolvido para automatizar o preenchimento de documentos de logística e reduzir tarefas manuais repetitivas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Gerador de Senhas</h3>
+      <p>Script em Python para geração de senhas, desenvolvido para praticar programação e automatizar uma tarefa simples.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Portal RH — Sunsale System</h3>
+      <p>Experiência profissional colaborando no desenvolvimento e na manutenção de uma aplicação Full Stack, com implementação de funcionalidades e correção de bugs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      </p>
+      <p><em>Projeto profissional, sem link público disponibilizado.</em></p>
+    </td>
+  </tr>
 </table>
 
-🎯 Objetivos profissionais
-Aprofundar meus conhecimentos em arquitetura e desenvolvimento de software.
-Evoluir na construção e integração de APIs e aplicações web.
-Desenvolver soluções que unam código, automação e eficiência.
-Aprimorar minhas práticas de versionamento, testes e organização de projetos.
+## 🎯 Objetivos profissionais
+
+- Aprofundar meus conhecimentos em arquitetura e desenvolvimento de software.
+- Evoluir na construção e integração de APIs e aplicações web.
+- Desenvolver soluções que unam programação, automação e eficiência.
+- Aprimorar minhas práticas de versionamento, testes e organização de projetos.
+
+---
 
 <div align="center">
 
-Obrigado pela visita! 🚀
+**Obrigado pela visita!** 🚀
 
 <a href="https://github.com/arthur-selvano?tab=repositories">Confira meus repositórios</a>
 
