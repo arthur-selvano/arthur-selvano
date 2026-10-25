@@ -30,7 +30,7 @@ Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos 
 <div align="center">
 
 <a href="https://github.com/tandpfun/skill-icons">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,py,java,postgres,docker,cpp,arduino,git,github,vscode,visualstudio&perline=7" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,py,java,spring,postgres,docker,cpp,arduino,git,github,vscode,visualstudio&perline=7" alt="Tecnologias e ferramentas" />
 </a>
 
 </div>
@@ -39,7 +39,7 @@ Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos 
 
 - **C# e .NET:** manutenção de aplicações, correção de bugs e implementação de funcionalidades em APIs.
 - **React:** desenvolvimento de interfaces e páginas front-end.
-- **Java:** desenvolvimento de aplicações desktop e integração com banco de dados.
+- **Java e Spring Boot:** desenvolvimento de APIs REST e aplicações backend.
 - **Python:** criação de scripts para automação de tarefas.
 - **SQL e PostgreSQL:** persistência e manipulação de dados.
 
@@ -55,10 +55,31 @@ Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos 
 - Docker e Docker Compose para ambientes de desenvolvimento.
 - Suporte técnico, diagnóstico de problemas e atendimento a usuários.
 
+
 ## 🚀 Projetos
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>💚 GranaClara — Controle Financeiro Pessoal</h3>
+      <p>Aplicação Full Stack para gerenciamento de finanças pessoais, permitindo registrar receitas e despesas, acompanhar o saldo e visualizar informações financeiras em um dashboard interativo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Java e Spring Boot" />
+        <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React e Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <ul>
+        <li>Cadastro, edição, listagem e exclusão de transações.</li>
+        <li>Dashboard com resumo financeiro e gráficos interativos.</li>
+        <li>Filtros por descrição, tipo e período.</li>
+        <li>API REST com validação e tratamento de exceções.</li>
+        <li>Testes automatizados e arquitetura inspirada em Clean Architecture.</li>
+        <li>Interface com modos claro e escuro.</li>
+      </ul>
+      <a href="https://github.com/arthur-selvano/grana-clara">Ver repositório</a>
+    </td>
     <td width="50%" valign="top">
       <h3>📋 Gerenciador de Tarefas</h3>
       <p>Aplicação desktop para gerenciamento de pessoas e tarefas, com operações CRUD e integração com banco de dados relacional.</p>
@@ -69,18 +90,11 @@ Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos 
       </p>
       <a href="https://github.com/arthur-selvano/gerenciador-tarefas-java">Ver repositório</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📦 Automação de Declaração de Conteúdo</h3>
-      <p>Script em Python desenvolvido para automatizar o preenchimento de documentos de logística e reduzir tarefas manuais repetitivas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 Gerador de Senhas</h3>
-      <p>Script em Python para geração de senhas, desenvolvido para praticar programação e automatizar uma tarefa simples.</p>
+      <h3>📦 Automação de Declaração de Conteúdo</h3>
+      <p>Script em Python desenvolvido para automatizar o preenchimento de documentos de logística e reduzir tarefas manuais repetitivas.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
